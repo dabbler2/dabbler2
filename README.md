@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dabbler2)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dabbler2)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dabbler2)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dabbler2)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dabbler2&utcOffset=9)
