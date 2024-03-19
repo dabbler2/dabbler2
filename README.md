@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dabbler2)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dabbler2&utcOffset=9) -->
 
-![프로젝트 내역](https://github.com/dabbler2/portfolio)
+[프로젝트 내역](https://github.com/dabbler2/portfolio)
