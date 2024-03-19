@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dabbler2&theme=nord_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dabbler2)
