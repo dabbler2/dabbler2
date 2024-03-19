@@ -24,9 +24,13 @@ Here are some ideas to get you started:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dabbler2&utcOffset=9) -->
 
 #### Stack
-[](Python)
-<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=Python&logoColor=white">
+[](TS)
+<img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white">
 [](MySQL)
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+[](AmazonEC2)
+<img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=AmazonEC2&logoColor=black">
+[](Python)
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=Python&logoColor=white">
 
 [My projects](https://github.com/dabbler2/portfolio)
