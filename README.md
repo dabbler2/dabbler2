@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dabbler2&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dabbler2)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dabbler2)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dabbler2)
